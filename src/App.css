@@ -1,0 +1,24 @@
+.App {
+  margin: auto;
+  max-width: 768px;
+  background: white;
+  padding: 3rem;
+  opacity: 1 !important;
+}
+
+.background {
+  background-image: url("./Assets/background.jpg");
+}
+
+.header {
+  font-size: 3rem;
+  padding-top: 2rem;
+  font-family: 'Galada', cursive;
+  text-align: center;
+  line-height: 3rem;
+}
+
+.subheader {
+  text-align: center;
+  color: rgba(0,0,0, 0.8);
+}
